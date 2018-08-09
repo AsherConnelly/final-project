@@ -1,0 +1,71 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+.ml-auto {
+  margin-left: 100%;
+}
+
+#logo {
+  margin-top: 20px;
+  flex: flow;
+  margin-left: 38%;
+  width: 300px;
+  height: 300px;
+}
+
+.Featured {
+  text-align: center;
+}
+
+footer {
+  padding-top: 80px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  display: block;
+  width: 100%;
+}
+
+
+.pricing {
+  border: 1px solid black;
+}
+
+.login {
+  margin-left: 38%;
+}
+
+#contactUs{
+  color: white;
+}
+
+.results {
+  display: grid;
+  align-content: center;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+#carousel {
+  margin-left: 17%;
+}
+
+#reviews {
+  margin-top: 50px;
+}
+
+#results {
+  display: center;
+}
+
+#search {
+  margin-left: 20%;
+}
+
+.copywrite{
+  display: block;
+  text-align: center;
+  opacity: .5;
+}
